@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "School"
+
+echo "The school is open!"
+>>>>>>> 1ea8b2d14678e3e0bb633aaba800f12007688a5c
